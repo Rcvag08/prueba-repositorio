@@ -1,2 +1,2 @@
-# prueba-repositorio
+# prueba-repositorio README
 Pruebas de repositorios para estudiar
